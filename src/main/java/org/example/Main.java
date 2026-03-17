@@ -14,7 +14,7 @@ public class Main {
             System.out.println("i = " + i + "დდდდდ");
             System.out.println("new branch");
             System.out.println("mariami");
-            System.out.println("mariami");
+            System.out.println("cotne");
         }
     }
 }
